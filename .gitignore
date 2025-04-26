@@ -1,0 +1,23 @@
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Node
+node_modules/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Skripte sa tokenima (ako ih imaš)
+scripts/config.py
+
+\n.env
+.env
